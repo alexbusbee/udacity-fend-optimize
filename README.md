@@ -11,7 +11,14 @@
 * Gave divs classes instead of inline styling for widths
 * Compressed pizzeria-compressed.jpg
 * Replaced querySelector with getElementById or getElementsByClassNames
+* Simplified the changePizzaSizes function
+* Declared variables outside of funcitons
 
+# How to Run the App
+1. Check out repo
+1. Run a Python or PHP server on your localhost
+1. Install [ngrok](https://ngrok.com/) to make your local server accessible remotely.
+1. Test with [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 ## Website Performance Optimization portfolio project
 
