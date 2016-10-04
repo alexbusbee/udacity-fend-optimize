@@ -13,6 +13,7 @@
 * Replaced querySelector with getElementById or getElementsByClassNames
 * Simplified the changePizzaSizes function
 * Declared variables outside of funcitons
+* Added window.innerHeight to calculate number of sliding pizzas depending on screen size.
 
 # How to Run the App
 1. Check out repo
